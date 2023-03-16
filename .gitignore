@@ -1,0 +1,2 @@
+# Ignore the modules directory for Node.js
+node_modules
